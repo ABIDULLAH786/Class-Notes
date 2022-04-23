@@ -43,6 +43,8 @@ app.use("style",express.static('public/css'));
 **Template Engines:** 
   1) Jade (Now it know as pug)
   2) ejs/egs 
+//ejs start
+  #esj
   Egample:
   Step-1: Install the engin
   Step-2: Use engion
@@ -104,8 +106,65 @@ On Client Side 2nd Way: (
 )
 
 ---------------------------------------------------------------
+**Single Nav Page**
+
+**Step-1**: Create new folder layouts and create a file for your layout here we are creating navbar.ejs
+
+![image](https://user-images.githubusercontent.com/67856787/164888247-8cc92314-da70-42bf-bd4f-5c9710f10266.png)
+
+**Step-2**: Use the created layout
+
+![image](https://user-images.githubusercontent.com/67856787/164888275-3b709bd2-ff5b-4a98-995d-b40c3103f9c9.png)
+
+//ejs work end
+
+
+
+
 
 ---------------------------------------------------------------
+
+#pug start
+1) install pug
+2) create view directory in src
+3) create file with .pug extention
+
+![image](https://user-images.githubusercontent.com/67856787/164888437-02bcd979-55ce-4093-8ade-0201581d7905.png)
+
+
+Server Side:
+
+![image](https://user-images.githubusercontent.com/67856787/164888504-e26c9c24-a13a-48f0-a5a3-6f5766c3c877.png)
+
+
+Clet Side:
+
+![image](https://user-images.githubusercontent.com/67856787/164888551-ed95c1c3-a9b1-4fcc-8971-e672c6ef70bd.png)
+
+
+
+
+for loop
+1) Clients Side:
+
+![image](https://user-images.githubusercontent.com/67856787/164888613-d356f942-f22d-4501-89d6-a3b56e4e4170.png)
+
+2) Server Side:
+
+![image](https://user-images.githubusercontent.com/67856787/164888661-9cfc7752-be7f-4775-bfa5-39f783cfdc72.png)
+
+
+
+
+Other Examples:
+
+![image](https://user-images.githubusercontent.com/67856787/164888687-7f0ec446-e273-4593-9c17-b6b7e712d14e.png)
+
+
+
+
+
+
 
 ---------------------------------------------------------------
 
