@@ -161,11 +161,98 @@ Other Examples:
 ![image](https://user-images.githubusercontent.com/67856787/164888687-7f0ec446-e273-4593-9c17-b6b7e712d14e.png)
 
 
+**Reacp:**
 
+1) **Difference between EJS: <%= versus <%- (https://stackoverflow.com/questions/11024840/ejs-versus)**
+2) **Difference Between Ejs and Pug**
+3) Ejs can compile asn use as html
 
 
 
 
 ---------------------------------------------------------------
+**4/25/2022**
+**mongoDB**
+
+
+Step 1: Create Database 
+Step 2: Create Collection
+
+(
+![image](https://user-images.githubusercontent.com/67856787/165073578-d4dbe4d3-2d70-47b2-958a-18c2b1626269.png)
+)
+
+Step 3: Insert Record/document in MongoDB
+
+![image](https://user-images.githubusercontent.com/67856787/165074515-d5e96a1d-8968-4e15-a683-35ece996dfd5.png)
+
+
+Find a record 
+
+![image](https://user-images.githubusercontent.com/67856787/165074628-dd84a8ca-fb21-4dac-a11d-8765d2591c7a.png)
+
+
+Insert Multiple document
+
+![image](https://user-images.githubusercontent.com/67856787/165074798-65d8ff96-204f-44c6-a3f7-af902bcd12b8.png)
+
+
+find and display in organized way
+
+![image](https://user-images.githubusercontent.com/67856787/165074957-6ef58ea4-ffb9-4802-854e-136168f5603d.png)
+
+
+insert and order
+
+![image](https://user-images.githubusercontent.com/67856787/165075363-2e9dc5ba-c160-41fb-843c-5c910cb29f44.png)
+
+
+find and findOne
+
+![image](https://user-images.githubusercontent.com/67856787/165075466-3d4c8bbc-86d3-457e-a5d1-709fcee91c2e.png)
+
+
+Find on atribute base 
+
+![image](https://user-images.githubusercontent.com/67856787/165075684-cf35d5ce-3a5f-4de6-b970-e01c7ebf1e87.png)
+
+update
+
+![image](https://user-images.githubusercontent.com/67856787/165075980-c7e81898-af58-4346-b33e-5e930264bbed.png)
+
+**Note this commond relace the previouse whole data.**
+
+Update on mentioned data of the object
+
+![image](https://user-images.githubusercontent.com/67856787/165076337-a4a9986b-4d39-4f6e-84d9-c389c0d02fb7.png)
+
+
+Logical Operators
+
+grater than or equal to:
+
+![image](https://user-images.githubusercontent.com/67856787/165076684-0ab8cb4a-31f8-409f-b7fa-fa160c438dab.png)
+
+less than:
+
+![image](https://user-images.githubusercontent.com/67856787/165076723-e4f33783-f77e-4545-80ce-4833ebc22f30.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------
