@@ -266,6 +266,18 @@ Body Parser
 
 
 
+MiddleWares
+
+
+![image](https://user-images.githubusercontent.com/67856787/168585224-92604b22-5d5f-4cd3-b5c0-9739c9c3adcb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67856787/168594503-7ef76a90-707d-4fce-999a-7da79b56bbb8.png)
+
+
+
+
 
 
 
