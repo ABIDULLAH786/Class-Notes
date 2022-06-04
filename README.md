@@ -276,6 +276,59 @@ MiddleWares
 ![image](https://user-images.githubusercontent.com/67856787/168594503-7ef76a90-707d-4fce-999a-7da79b56bbb8.png)
 
 
+# Class-Notes After 2nd Mid
+
+**User Authentication**
+
+![image](https://user-images.githubusercontent.com/67856787/171993868-acb9dbb0-3c96-44ba-9ddf-1c19f4985053.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/171994092-b7613f06-8cf4-4c97-86cb-6759c09f70ce.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/171994194-541d07c3-f255-497e-a6c1-3e71a02f47c6.png)
+
+
+
+**Session** 
+
+![image](https://user-images.githubusercontent.com/67856787/171994294-b34fd2cb-7034-412e-8fb1-61b8074ca052.png)
+
+
+Authenticat and verify via session
+
+![image](https://user-images.githubusercontent.com/67856787/171994563-3d15471c-f64b-4484-919a-ebc195f22c32.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/171994740-8b254634-0445-4248-a10f-1f5486517501.png)
+
+Login Authentication 
+
+
+![image](https://user-images.githubusercontent.com/67856787/171994967-d652bd38-5f7a-4ea4-938d-4a75ea2dc4f1.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/171994978-c18d1f46-08fd-4188-8d88-b06b9be8effd.png)
+
+
+
+
+
+**Logout and Login**
+
+![image](https://user-images.githubusercontent.com/67856787/171995911-f0866870-660e-4328-9e3a-2a64892eaa5b.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/171996131-a3ca2ddb-3380-42ef-b41b-29e3325fbe55.png)
+
+
+
+
+
+
+
+
+
 
 
 
