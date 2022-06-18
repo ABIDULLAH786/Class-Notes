@@ -324,8 +324,55 @@ Login Authentication
 
 
 
+#unit Testing
+
+first install jest (as a dev dependency)
+
+create directory in you project as  __test__
+  create file for testing component with js extention.
+  add test script
+    like: "test": "jest"
+  
+  now write test in the file you created in __test__ directory
 
 
+
+![image](https://user-images.githubusercontent.com/67856787/174432531-3787186b-3a0f-4109-9765-b63db765eb87.png)
+
+test like this
+
+![image](https://user-images.githubusercontent.com/67856787/174432546-cd81001b-e627-4ec0-a6be-2241432ea187.png)
+
+
+- What if we give incorrect input 
+
+![image](https://user-images.githubusercontent.com/67856787/174432559-b230ff16-9c3b-4c73-a597-d03a58da87d3.png)
+
+
+- testing function
+
+![image](https://user-images.githubusercontent.com/67856787/174433116-c39a5e1c-4fce-46b0-94c3-d199a14ec507.png)
+
+
+- checking variable types
+
+![image](https://user-images.githubusercontent.com/67856787/174433193-5b6477ca-4ce5-46df-a93e-a31531bdf20c.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/174433614-4dcae613-9979-4f3e-9e14-f8074fb47499.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67856787/174433676-1cddd139-cfb5-4483-91a0-4faaaece48bb.png)
+
+
+
+
+
+
+
+
+  
 
 
 
