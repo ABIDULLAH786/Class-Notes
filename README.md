@@ -369,14 +369,39 @@ test like this
 
 
 
+API Test (Super test)
+-
+- for that we have to install super-test
 
-
-
+- Now code the following 
   
+**API Test**
+
+FileName: my.test.js
+const app = require('../index')
+const request = require('supertest')
+
+describe('POST APIs', () => {
+    test('It should create user', async () => {
+        let result  = await request(app).post('/signup2')
+            .send({
+                username: "Abid",
+                password: "1234"
+            })
+
+            expect(result.body).toEqual({
+                username: "Abid",
+                password: "1234"
+            })
+
+    })
+})
 
 
-
-
+**in index.js**
+app.post("/signup2",(req,res)=>{
+  res.json(req.body);
+});
 
 
 
