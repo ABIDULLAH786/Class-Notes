@@ -380,7 +380,7 @@ API Test (Super test)
 FileName: my.test.js
 const app = require('../index')
 const request = require('supertest')
-
+```
 describe('POST APIs', () => {
     test('It should create user', async () => {
         let result  = await request(app).post('/signup2')
@@ -396,13 +396,14 @@ describe('POST APIs', () => {
 
     })
 })
-
+```
 
 **in index.js**
+```
 app.post("/signup2",(req,res)=>{
   res.json(req.body);
 });
-
+```
 
 
 
