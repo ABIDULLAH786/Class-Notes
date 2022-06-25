@@ -406,4 +406,63 @@ app.post("/signup2",(req,res)=>{
 ```
 
 
+------------------------------
+## JWT
+-
+
+install jsonwebtocken by 
+npm i jsonwebtocken
+
+![image](https://user-images.githubusercontent.com/67856787/175768013-72a20405-09d9-4c40-94a0-454d245116ef.png)
+
+
+**jwt cnontroller**
+
+![image](https://user-images.githubusercontent.com/67856787/175768025-9916f67a-2138-4269-bba4-66286b30e5d1.png)
+
+
+middle ware for verifying tocken
+
+![image](https://user-images.githubusercontent.com/67856787/175769451-87693fb4-9618-4dd9-af39-60c4115ecec4.png)
+
+
+get request on product route/api
+
+![image](https://user-images.githubusercontent.com/67856787/175769613-a1528906-23f6-4887-9f6a-64b4b7c99042.png)
+
+
+get api response after expire
+
+![image](https://user-images.githubusercontent.com/67856787/175769660-f1379f8e-a7cf-4099-89d0-b62df317908a.png)
+
+
+------------------------------------------------
+## json schema ![site link](https://www.jsonschema.net/)
+-
+
+
+install jesonschema
+and import it in your app
+
+![image](https://user-images.githubusercontent.com/67856787/175770416-9ec6ca64-d4ab-457a-9c65-b7e12e871cf5.png)
+
+
+save the jsonschema in a variable and apply it on api or route
+
+![image](https://user-images.githubusercontent.com/67856787/175770444-de55924b-5d73-42e8-ae08-7e8678c60965.png)
+
+
+![image](https://user-images.githubusercontent.com/67856787/175770561-763d6832-db82-4c55-961c-c86c0cc46e9a.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
