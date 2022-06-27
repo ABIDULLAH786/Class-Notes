@@ -438,12 +438,12 @@ get api response after expire
 
 sending token in header
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/67856787/175942835-685a5822-0528-4fc0-979b-4d67251ed0e9.png)
 
 
 post api with jwt
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/67856787/175942872-00f2d0ad-9dce-4ba8-b4ab-48de22a4b34a.png)
 
 -----------------------------------
 ## Put vs Patch <a href="https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios">Resource</a>
