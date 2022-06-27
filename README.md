@@ -436,8 +436,20 @@ get api response after expire
 ![image](https://user-images.githubusercontent.com/67856787/175769660-f1379f8e-a7cf-4099-89d0-b62df317908a.png)
 
 
+sending token in header
+
+![Uploading image.png…]()
+
+
+post api with jwt
+
+![Uploading image.png…]()
+
+-----------------------------------
+## Put vs Patch <a href="https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios">Resource</a>
+
 ------------------------------------------------
-## json schema ![site link](https://www.jsonschema.net/)
+## json schema <a href="https://www.jsonschema.net/">Site Link</a>
 -
 
 
